@@ -9,7 +9,7 @@ This web application is a portal for managing missions and campaigns. From this 
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/b3c1ebec-6c2e-42af-8a21-2f974e3a4530" width="850" alt="Registro 1" hspace="20"/>
+  <img src="https://github.com/user-attachments/assets/b3c1ebec-6c2e-42af-8a21-2f974e3a4530" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.1: Web login screen.
 
@@ -19,12 +19,12 @@ Once authenticated correctly, the administrator will have an overview of all the
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/2e9d3664-9905-4a14-83f3-f5700c020dfb" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/2e9d3664-9905-4a14-83f3-f5700c020dfb" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.2: Active campaigns display screen.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/2a47c4c2-9a3e-42cb-bc73-5a6bedd1fc4f" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/2a47c4c2-9a3e-42cb-bc73-5a6bedd1fc4f" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.3: Campaign creation screen.
 
@@ -35,7 +35,7 @@ Once we have finished adding points of sale to a campaign, we can view it in the
 From there, we will access the campaign to define the missions. On this screen (Figure 1.4), existing missions within the campaign can be viewed, as well as new ones added. Currently, there are two different types of missions, either text or image-based. To define them, we must select the type of mission and provide instructions for its completion.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/87a677d9-93c6-4d65-8e67-77855a79cf1d" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/87a677d9-93c6-4d65-8e67-77855a79cf1d" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.4: Screen for viewing and adding missions to a campaign.
 
@@ -43,7 +43,7 @@ If the administrator wants to view or remove any points of sale from the campaig
 When a campaign has been active for a while, we will start receiving user results. The "View users" button from the previous screen (Figure 1.4) will take us directly to the list of all users who have participated in the campaign (Figure 1.5). In this list, we can see relevant user information, such as their name and email address.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/b3eb8187-a5f6-44f3-95cd-06c9334257db" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/b3eb8187-a5f6-44f3-95cd-06c9334257db" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.5: Screen for users who have participated in a campaign.
 
@@ -53,11 +53,11 @@ If the administrator needs to contact a user, the results screen (Figure 1.6) ha
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/0737e30f-1f23-4b2f-b105-84aeb845d7bb" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/0737e30f-1f23-4b2f-b105-84aeb845d7bb" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.6: Screen with a user's results in a campaign.
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/21553561-0c9e-4dcd-923d-9e9b954c890b" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/21553561-0c9e-4dcd-923d-9e9b954c890b" width="850" alt="Registro 1" hspace="10"/>
 </div>
 Figure 1.7: Screen for sending an email to a user.
