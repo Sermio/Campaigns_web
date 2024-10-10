@@ -9,7 +9,7 @@ This web application is a portal for managing missions and campaigns. From this 
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/b3c1ebec-6c2e-42af-8a21-2f974e3a4530" width="850" alt="Registro 1" hspace="30"/>
+  <img src="https://github.com/user-attachments/assets/b3c1ebec-6c2e-42af-8a21-2f974e3a4530" width="850" alt="Registro 1" hspace="20"/>
 </div>
 Figure 1.1: Web login screen.
 
